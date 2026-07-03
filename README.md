@@ -1,3 +1,4 @@
+<div align="center">
 # Portfolio Web — Raiden Shogun ⚡
 
 Website portfolio personal bertema Raiden Shogun, dibangun dengan HTML, CSS, dan JavaScript murni tanpa framework.
@@ -8,6 +9,7 @@ Website portfolio personal bertema Raiden Shogun, dibangun dengan HTML, CSS, dan
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+</div>
 ## Stack
 
 `HTML` · `CSS` · `JavaScript`
